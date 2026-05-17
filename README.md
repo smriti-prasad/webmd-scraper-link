@@ -1,5 +1,5 @@
 
-# WebMD Entity Resolution Pipeline
+# WebMD Scraper
 
 A Python-based entity resolution pipeline that maps messy healthcare provider/facility records to accurate WebMD profile URLs.
 
